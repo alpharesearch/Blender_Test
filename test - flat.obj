@@ -1,6 +1,6 @@
-# Blender v2.77 (sub 0) OBJ File: 'test.blend'
+# Blender v2.77 (sub 0) OBJ File: 'test - flat.blend'
 # www.blender.org
-mtllib test.mtl
+mtllib test - flat.mtl
 o Suzanne
 v -2.265944 -3.774217 -0.727164
 v -3.140944 -3.774217 -0.727164
